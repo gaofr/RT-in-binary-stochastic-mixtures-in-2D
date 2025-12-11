@@ -1,5 +1,5 @@
 This is data repository for the paper "Efficient algorithms for accurately simulating radiative transfer in binary stochastic mixtures in two dimensions". 
-The notations correspond to figures included in the paper.A brief description is the following:
+The notations correspond to figures included in the paper. A brief description is the following:
 
 a) In the directory of "fig6", it is the output of the radiative transfer for an atomic-mixing binary mixture. The first column is the time in units of 
 picsecond (ps), and the second to fourth columns represent the radiation reflection at x=0, radiation transmission at x=Lx, and material energy density at 
